@@ -1,2 +1,7 @@
-# AWS-Lambda-Invoker-Issues
-Feedback and Issue tracker for AWS Lambda Invoker Android App
+# AWS Lambda Invoker Android App
+
+## Feedback and Issue tracker
+
+Please use this repo for any feedback or issues related to the app.
+
+Thanks for your interest!
